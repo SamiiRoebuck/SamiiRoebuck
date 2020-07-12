@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="/header.svg" alt="header" border="0">
 
-<!--
-**SamiiRoebuck/SamiiRoebuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a...
+----
+- Developer @ Mixd :computer:
+- Javascript and JAMstack enthusiast :grapes:
+- Digital Media Graduate :mortar_board:
+- Animal Lover :mouse:
+- All round nerd! :nerd_face:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Where can you find me:
+----
+- [Twitter](https://twitter.com/samroebuck_)
+- [Dev.to](https://dev.to/samroebuck_)
+- [Instagram](https://www.instagram.com/samroebuck_/)
+- You can check out my portfolio [here](https://samroebuck.dev/) too :stuck_out_tongue_winking_eye: 
