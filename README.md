@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/samiiroebuck/samiiroebuck/master/header.svg" alt="header" border="0">
-
 I'm a...
 ----
 - Developer @ Mixd :computer:
