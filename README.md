@@ -1,6 +1,6 @@
 I'm a...
 ----
-- Developer @ Mixd :computer:
+- Associate Application Developer @ IBM :computer:
 - Javascript and JAMstack enthusiast :grapes:
 - Digital Media Graduate :mortar_board:
 - Animal Lover :mouse:
